@@ -1,6 +1,6 @@
 # Brain Tumor Detector
 
-![Brain Tumor Image](<div style="width:480px"><iframe allow="fullscreen" frameBorder="0" height="480" src="https://giphy.com/embed/qL6qGYY3ky9dqx96e7/video" width="480"></iframe></div>)
+![Brain Tumor Image](https://giphy.com/embed/qL6qGYY3ky9dqx96e7/video)
 
 ## Description
 This project aims to detect and classify brain tumors using MRI images. Brain tumors are one of the most aggressive diseases, affecting both children and adults. Proper diagnosis and treatment planning are crucial for improving patient outcomes. Manual examination of MRI scans can be error-prone due to the complexity of brain tumors. Therefore, an automated classification system using Deep Learning algorithms is proposed to assist radiologists in diagnosing brain tumors more accurately.
