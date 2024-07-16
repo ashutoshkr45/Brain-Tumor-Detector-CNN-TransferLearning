@@ -1,0 +1,8 @@
+torch==2.3.0
+torchvision==0.18.0
+efficientnet-pytorch
+torchsummary
+scikit-learn==1.2.2
+numpy
+matplotlib
+seaborn
